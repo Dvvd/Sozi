@@ -1,9 +1,9 @@
-release
+*~
 node_modules
-CMakeCache.txt
-CMakeFiles
-*.pyc
-
-.sconsign.dblite
+vendor/DroidSans/DroidSans*
+bower_components
 build
-
+dist
+cache
+/js/backend/GoogleDrive.config.js
+npm-debug.log
